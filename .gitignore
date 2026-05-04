@@ -1,0 +1,70 @@
+# R session files
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# R package/build files
+.Rbuildignore
+*.tar.gz
+*.Rcheck/
+.NAMESPACE
+src/*.o
+src/*.so
+src/*.dll
+
+# R cache and generated files
+.Rcache/
+.Rproj.user/
+renv/library/
+renv/staging/
+packrat/lib*/
+packrat/src/
+
+# knitr / R Markdown generated files
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Data files: keep source data out of the repository
+*.csv
+*.tsv
+*.txt
+*.xlsx
+*.xls
+*.rds
+*.Rds
+*.RData
+*.parquet
+*.duckdb
+*.sqlite
+*.sqlite3
+*.db
+
+# Outputs / results
+output/
+outputs/
+results/
+figures/
+plots/
+tables/
+reports/
