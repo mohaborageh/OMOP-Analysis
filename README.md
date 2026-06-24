@@ -1,8 +1,8 @@
-# Harmonising European Real-World Data for Regulatory Evidence Generation
+# Does OMOP CDM Conversion Improve Cross-Country Comparability of Real- World Data? A Benchmark Study in Breast Cancer and Amyotrophic Lateral Sclerosis
 
 This repository contains the code used for the article:
 
-**Harmonising European Real-World Data for Regulatory Evidence Generation: OMOP-Based Analyses of Breast Cancer and Amyotrophic Lateral Sclerosis**
+**Does OMOP CDM Conversion Improve Cross-Country Comparability of Real- World Data? A Benchmark Study in Breast Cancer and Amyotrophic Lateral Sclerosis**
 
 ## Repository structure
 
